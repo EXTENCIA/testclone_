@@ -15,10 +15,10 @@
 3. 
 
 ## Header ke4
-assalamualaikum ''dart install'' waalaikumsalam
+assalamualaikum ``dart install`` waalaikumsalam
 
 ## Header ke5
-'''dart
+```dart
 for (i=0; i< 10; i++) {
     print("Nomor $1");
 }
